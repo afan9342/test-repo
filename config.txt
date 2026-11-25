@@ -1,0 +1,5 @@
+# test config - not real
+db_host = localhost
+db_user = testuser
+api_key = AKIAFAKEKEY1234567890EXAMPLE
+db_pass = Sup3rFakePassword!2026
